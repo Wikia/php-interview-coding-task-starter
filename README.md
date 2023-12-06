@@ -2,7 +2,7 @@ This is a PHP interview project to help you setup your environment.
 
 Requirements:
 * Mac OS X/Linux/Windows
-* PHP 7.4 or newer
+* PHP 8.0 or newer
 
 Make sure that you are able to install Composer dependencies and run tests via PHPUnit
 ```bash
